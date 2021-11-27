@@ -1,0 +1,15 @@
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\bin\Debug\net6.0\check_sum _in_array.exe
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\bin\Debug\net6.0\check_sum _in_array.deps.json
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\bin\Debug\net6.0\check_sum _in_array.runtimeconfig.json
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\bin\Debug\net6.0\check_sum _in_array.dll
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\bin\Debug\net6.0\ref\check_sum _in_array.dll
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\bin\Debug\net6.0\check_sum _in_array.pdb
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\obj\Debug\net6.0\check_sum _in_array.csproj.AssemblyReference.cache
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\obj\Debug\net6.0\check_sum _in_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\obj\Debug\net6.0\check_sum _in_array.AssemblyInfoInputs.cache
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\obj\Debug\net6.0\check_sum _in_array.AssemblyInfo.cs
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\obj\Debug\net6.0\check_sum _in_array.csproj.CoreCompileInputs.cache
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\obj\Debug\net6.0\check_sum _in_array.dll
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\obj\Debug\net6.0\ref\check_sum _in_array.dll
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\obj\Debug\net6.0\check_sum _in_array.pdb
+D:\.Net\MH.NET\MyProjects\check_sum _in_array\obj\Debug\net6.0\check_sum _in_array.genruntimeconfig.cache
